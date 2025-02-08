@@ -1,1 +1,3 @@
 # BioFM
+
+Biology foundation model
